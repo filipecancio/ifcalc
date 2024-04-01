@@ -1,0 +1,23 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "entuent.fira-code-nerd-font",
+                "akamud.vscode-theme-onedark",
+                "pkief.material-icon-theme",
+                "eamodio.gitlens",
+                "fwcd.kotlin",
+                "mathiasfrohlich.kotlin",
+                "vscjava.vscode-java-pack",
+                "github.copilot-chat",
+                "github.copilot",
+                "formulahendry.code-runner"
+            ]
+        }
+    },
+    "mounts": []
+}
